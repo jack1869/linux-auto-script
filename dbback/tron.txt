@@ -1,0 +1,2 @@
+30 4 * * * /alidata/dbbackup/dbbackup.sh
+10 6 * * * /alidata/dbbackup/mainscp.sh
