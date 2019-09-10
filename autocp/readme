@@ -1,0 +1,4 @@
+local.sh a.conf
+
+ssh root@192.168.0.190 /root/autocp/local.sh b_r.conf
+ssh root@192.168.0.235 /root/autocp/local.sh c_r.conf
